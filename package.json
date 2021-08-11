@@ -1,0 +1,25 @@
+{
+  "name": "@dunp/replicator",
+  "version": "0.0.1",
+  "description": "dunp protocol replicators",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dunp-org/replicator.git"
+  },
+  "keywords": [
+    "dunp",
+    "replicator"
+  ],
+  "author": "prc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dunp-org/replicator/issues"
+  },
+  "homepage": "https://dunp.org",
+  "dependencies": {
+  }
+}
